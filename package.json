@@ -1,0 +1,20 @@
+{
+  "name": "news_app",
+  "scripts": {
+    "dev": "node server/index.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "isomorphic-unfetch": "^3.0.0",
+    "mongoose": "^5.4.13",
+    "mongoose-data-seed": "^1.0.7",
+    "next": "^8.0.1",
+    "react": "^16.8.2",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-dom": "^16.8.2"
+  }
+}
