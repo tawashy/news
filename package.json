@@ -12,7 +12,7 @@
     "isomorphic-unfetch": "^3.0.0",
     "mongoose": "^5.4.13",
     "mongoose-data-seed": "^1.0.7",
-    "next": "^8.0.1",
+    "next": "^11.1.0",
     "react": "^16.8.2",
     "react-bootstrap": "^1.0.0-beta.5",
     "react-dom": "^16.8.2"
