@@ -10,7 +10,7 @@
     "bootstrap": "^4.3.1",
     "express": "^4.16.4",
     "isomorphic-unfetch": "^3.0.0",
-    "mongoose": "^5.4.13",
+    "mongoose": "^5.7.5",
     "mongoose-data-seed": "^1.0.7",
     "next": "^8.0.1",
     "react": "^16.8.2",
