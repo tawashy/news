@@ -8,7 +8,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "bootstrap": "^4.3.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "isomorphic-unfetch": "^3.0.0",
     "mongoose": "^5.4.13",
     "mongoose-data-seed": "^1.0.7",
